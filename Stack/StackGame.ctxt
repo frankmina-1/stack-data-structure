@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StackGame
+comment0.text=\r\n\ The\ StackGame\ class\ is\ a\ game\ that\ simulates\ the\ King\ of\ Stacks\ ruleset.\r\n\ Two\ players\ will\ add\ disks\ to\ one\ of\ three\ stacks\ each\ round.\ \r\n\ Every\ 3rd,\ 5th,\ and\ 8th\ round,\ the\ top\ entry\ of\ the\ respective\ stack\ will\ be\ popped\ off.\ \r\n\ The\ player\ with\ the\ most\ entries\ across\ all\ three\ stacks\ at\ the\ end\ of\ the\ desired\ round\ count\r\n\ will\ win\ the\ game.\ \r\n\ \r\n\ @author\ Frank\ Mina\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
